@@ -4,12 +4,12 @@
  pi: 3.14159
  xmas: true
  french-hens: 3
- calling-birds:
+ calling-birds2:
    - huey
    - dewey
    - louie
    - fred
- xmas-fifth-day:
+ xmas-fifth-day2:
    calling-birds: four
    french-hens: 3
    golden-rings: 5
